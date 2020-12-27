@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+alias a="aws"
+alias k="kubectl"
+alias l="ls -l"
+alias t="tree"
+alias tf="terraform"
+alias v="vim"
